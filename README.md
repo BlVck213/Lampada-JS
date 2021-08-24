@@ -4,8 +4,8 @@ Site criado com objetivos didáticos para as aulas de PWFE do curso de Desenvolv
 
 O projeto consiste em criar uma lâmpada que tenha tenha três ações, ligar, desligar e quebrar, utilizando vários eventos.  
 
-![](ligada.jpg) ![](desligada.jpg) ![](quebrada.jpg)
+![](img/ligada.jpg) ![](img/desligada.jpg) ![](img/quebrada.jpg)
 
 O código foi construido pensando em boas práticas, como responsabilidade única e funções puras.
 
-![](site.PNG)
+![](img/site.PNG)

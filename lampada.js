@@ -11,7 +11,7 @@ function ligarLampada(){
 
     if(!lampadaQuebrada()){
     
-    lampada.src = "ligada.jpg"
+    lampada.src = "img/ligada.jpg"
     ligar.disabled = true
     desligar.disabled = false
     }
@@ -23,7 +23,7 @@ function desligarLampada(){
 
     if(!lampadaQuebrada()){
         
-    lampada.src = "desligada.jpg"
+    lampada.src = "img/desligada.jpg"
     ligar.disabled = false
     desligar.disabled = true
     }
@@ -31,7 +31,7 @@ function desligarLampada(){
 
 function quebrarLampada(){
     const lampada = document.getElementById("lampada")
-    lampada.src = "quebrada.jpg"
+    lampada.src = "img/quebrada.jpg"
     ligar.disabled = true
     desligar.disabled = true
 }
