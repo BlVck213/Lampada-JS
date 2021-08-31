@@ -8,4 +8,4 @@ O projeto consiste em criar uma lâmpada que tenha cinco ações, ligar, desliga
 
 O código foi construido pensando em boas práticas, como responsabilidade única e funções puras.
 
-![](img/site.PNG)
+![](img/site.png)
