@@ -51,9 +51,11 @@ function piscarLampada(){
     if(piscar.textContent == "Piscar"){
         idInterval = setInterval(trocarLampada, 750)  
          piscar.textContent = "Parar"
+     piscar.style.backgroundColor = red
     } else {
         clearInterval(idInterval)
         piscar.textContent = "Piscar"
+     piscar.style.backgroundColor = green
     }
 }
 
