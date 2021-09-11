@@ -40,5 +40,8 @@ button{
     width: 100px;
     height: 40px;
     cursor: pointer;
-    background-color: green;
 }
+
+#piscar {
+    background-color: #00FF00;
+  }
